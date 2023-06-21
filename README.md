@@ -32,14 +32,14 @@ Created a DataFrame of summary statistics.
 - Using Matplotlib, generated a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlighting any potential outliers in the plot by changing their color and style.
 
 **Line Plot and Scatter Plot**
-  
-    - Selected a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
-    - Generated a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
+
+- Selected a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
+- Generated a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
 
 **Correlation and Regression**
 
-    - Calculated the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
-    - Plotting the linear regression model on top of the previous scatter plot.
+ - Calculated the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
+ - Plotting the linear regression model on top of the previous scatter plot.
 
 
 **Resources**
