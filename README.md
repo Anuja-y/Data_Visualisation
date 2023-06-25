@@ -10,16 +10,18 @@ In this study, I conducted a comprehensive analysis of 249 mice with SCC tumors,
 Merged the mouse_metadata and study_results DataFrames into a consolidated DataFrame, ensuring data integrity.
 Identified the number of unique mice IDs in the dataset, and meticulously checked for any mouse IDs with duplicate time points.
 Detected the data associated with the mouse ID in question and created a new DataFrame by eliminating this data, ensuring accuracy and reliability.
-Summary Statistics Generation:
 
 
-**Developed a summary statistics DataFrame with the following features:**
+**Summary Statistics Generation:**
+
+Developed a summary statistics DataFrame with the following features:
 A row for each drug regimen.
 Columns representing key statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
-Bar Charts and Pie Charts:
 
 
-**Produced two visually appealing bar charts that showcase the total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.**
+**Bar Charts and Pie Charts:**
+
+Produced two visually appealing bar charts that showcase the total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 Utilized both the Pandas DataFrame.plot() method and Matplotlib's pyplot methods to create the bar charts.
 Constructed two informative pie charts that illustrate the distribution of female versus male mice in the study.
 Employed both the Pandas DataFrame.plot() method and Matplotlib's pyplot methods to generate the pie charts.
