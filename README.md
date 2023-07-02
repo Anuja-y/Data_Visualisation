@@ -2,7 +2,7 @@
 
 **Analyzing Drug Regimens and Tumor Development**
 
-In this study, I conducted a comprehensive analysis of 249 mice with SCC tumors, focusing on the effectiveness of different drug regimens. Over a period of 45 days, I closely observed and measured tumor development. The main objective was to compare the performance of Capomulin, a drug of interest from Pymaceuticals, against other treatment regimens.
+In this study, I conducted a comprehensive analysis of 249 mice with SCC tumors, focusing on the effectiveness of different drug regimens. Over a period of 45 days, the researchers closely observed and measured tumor development. The main objective was to compare the performance of Capomulin, a drug of interest from Pymaceuticals, against other treatment regimens.
 
 
 **Data Preparation:**
